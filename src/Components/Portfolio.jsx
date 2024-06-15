@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "LiveShare.io🎉",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "A collabration platform to share code and also write code with the support of more than 50 languages and syntax highlighting",
+    url: "https://liveshare-sigma.vercel.app/",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Amazon Product Price tracker",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Platform to track the price of the amazon product and notify the user when price drop.",
+    url: "https://amz-price-tracker.vercel.app/",
   },
   {
-    title: "My Resume Site",
+    title: "Image Gallery",
     description:
       "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+    url: "https://img-gallery-ayush-gargs-projects.vercel.app/",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Blog App ",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Static rendered website to create blogs.",
+    url: "https://blogger-kappa-pied.vercel.app/",
   },
 ];
 

@@ -24,7 +24,7 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  "Hi, how are you, I am ayush garg current I am doing bachelors of computer application from ggsipu delhi also I am working as a full stack developer I have developed my personal projects and I am also handles social media of our college placement cell and organise events for IIC currently I am learning web 3  I am looking for a internsjip so that I can have my hands on proffesional development process."
 
 /**
  * List of some of skills or technologies you work on, are learning,
@@ -37,6 +37,8 @@ const skillsList = [
   "Focus group testing",
   "Mobile user interfaces",
   "Graphic design",
+  "MongoDb",
+  "NextJS"
 ];
 
 /**
@@ -45,7 +47,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+  "I am passionate about coding and not only web development also DSA , I have recently started learing Web 3";
 
 const About = () => {
   return (
